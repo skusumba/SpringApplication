@@ -9,6 +9,6 @@ public class HomeController {
     @GetMapping("/home")
     public String homePage()
     {
-        return "Hello World from SpringBoot Application";
+        return "Hello World from SpringBoot Application testing";
     }
 }
